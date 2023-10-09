@@ -1,0 +1,7 @@
+D:\ceng\C#\Projects\10x10SaldiriOyunu\10x10SaldiriOyunu\bin\Debug\10x10SaldiriOyunu.exe.config
+D:\ceng\C#\Projects\10x10SaldiriOyunu\10x10SaldiriOyunu\bin\Debug\10x10SaldiriOyunu.exe
+D:\ceng\C#\Projects\10x10SaldiriOyunu\10x10SaldiriOyunu\bin\Debug\10x10SaldiriOyunu.pdb
+D:\ceng\C#\Projects\10x10SaldiriOyunu\10x10SaldiriOyunu\obj\Debug\10x10SaldiriOyunu.csproj.AssemblyReference.cache
+D:\ceng\C#\Projects\10x10SaldiriOyunu\10x10SaldiriOyunu\obj\Debug\10x10SaldiriOyunu.csproj.CoreCompileInputs.cache
+D:\ceng\C#\Projects\10x10SaldiriOyunu\10x10SaldiriOyunu\obj\Debug\10x10SaldiriOyunu.exe
+D:\ceng\C#\Projects\10x10SaldiriOyunu\10x10SaldiriOyunu\obj\Debug\10x10SaldiriOyunu.pdb
